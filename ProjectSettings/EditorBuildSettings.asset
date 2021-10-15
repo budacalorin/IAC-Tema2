@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 5e4fba024d71744c5b9bb554906913ad, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 424a75d139c254fb69bce8cabf350e01, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 390ec76de0b644dbc8595638707f6cef, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: d1d73edbaa6e44cffbf1bfaabee42bf8, type: 2}
